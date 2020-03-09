@@ -38,9 +38,7 @@
             </tr>
 
         @endforeach
-
-
-
+        
     </tbody>
     </table>
 
