@@ -21,21 +21,21 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/carousel-1.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-1.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block first-item">
               <h5>First slide label</h5>
               <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-2.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-2.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block second-item">
               <h5>Second slide label</h5>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-3.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-3.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block third-item">
               <h5>Third slide label</h5>
               <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -60,7 +60,7 @@
     <h2>Por qué comprar en AↃBA</h2>
     <article class="card" id="card1 row">
       <div class="card-image col-ms-12 col-md-6">
-        <img src="img/card1.jpg" alt="">
+        <img src="img/card1.png" alt="">
       </div>
       <div class="card-text col-ms-12 col-md-6">
         <h3>Variedad de productos</h3>
@@ -77,12 +77,12 @@
           deleniti mollitia eum?</p>
       </div>
       <div class="card-image col-ms-12 col-md-6">
-        <img src="img/card1.jpg" alt="">
+        <img src="img/card2.png" alt="">
       </div>
     </article>
     <article class="card" id="card3 row">
       <div class="card-image col-ms-12 col-md-6">
-        <img src="img/card1.jpg" alt="">
+        <img src="img/card3.png" alt="">
       </div>
       <div class="card-text col-ms-12 col-md-6">
         <h3>Envíos a todo el país</h3>
