@@ -26,11 +26,7 @@
 
             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod.
+                    Somos un grupo de estudiantes de Digital House, que surgió con el propósito de crear una página destinada al mercado.
                 </div>
             </div>
         </div>
@@ -49,20 +45,7 @@
             </div>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                 Tratamos de proveer una experiencia enriquecedora y totalmente placentera a la hora de hacer compras en línea. Para ello, disponemos de un amplio repositorio de productos para ofrecerle a nuestros clientes. Las compras se pueden efectuar en efectivo ya sea acercándose a las tiendas de comercio más cercanas (RapiPago, PagoFacil), o por debito/credito.
                 </div>
             </div>
         </div>
@@ -77,15 +60,7 @@
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
+           Para ser parte de esta comunidad, solo precisas introducir tus datos personales, y una imagen a elección, que servirá para reconocerte. Para ello, dirigirse hacia el extremo derecho superior y presionar sobre el botón que dice “Crear Cuenta”.
                 </div>
             </div>
         </div>
@@ -106,20 +81,7 @@
             </div>
             <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                    Para acceder a una cuenta, se debe ingresar las credenciales utilizadas por el usuario a la hora de crear la cuenta. Estos datos, de pueden modificar entrando en la sección del perfil.
                 </div>
             </div>
         </div>
@@ -133,20 +95,7 @@
             </div>
             <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                    En el caso de toparse con un error a la hora de ingresar a la cuenta personal, el problema puede asociarse con un ingreso erróneo de credenciales. Si este no es el caso, seleccionar el botón que dice Olvide Contraseña, para actualizar y recuperar sus datos.
                 </div>
             </div>
         </div>
@@ -160,20 +109,7 @@
             </div>
             <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                    En el caso de tener la cuenta bloqueada, le pedimos por favor que se comunique con nosotros mediante correo electrónico, para poder encontrar una solución al problema y corroborar que es un cliente apto para pertenecer de esta comunidad.
                 </div>
             </div>
         </div>
@@ -192,20 +128,7 @@
             </div>
             <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                    Si usted se ha olvidado, o perdio su contraseña, cuenta con la posibilidad de recibir un email y actualizarla. Para ello, presione en el botón debajo de ingresar a mi cuenta e ingrese su dirección de correo electrónico.
                 </div>
             </div>
         </div>
@@ -224,20 +147,7 @@
             </div>
             <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
                 <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                    squid.
-                    3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa
-                    nesciunt
-                    laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                    single-origin
-                    coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore
-                    wes
-                    anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo.
-                    Leggings
-                    occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                    haven't
-                    heard
-                    of them accusamus labore sustainable VHS.
+                    Por el momento, contamos solamente con pagos en efectivos en el local, pagos a través de transferencias bancarias, por tarjeta de credito y debito y por último, a través de depósitos en RapiPago o PagoFacil. Estamos desarrollandonos para conseguir nuevas medidas y satisfacer sus necesidades.
                 </div>
             </div>
         </div>
