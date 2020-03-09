@@ -125,7 +125,7 @@
 
       <!-- BOTONES -->
       <div class="button-container col-12">
-        <button type="submit" id="btn-edit" class="btn btn-primary">Guardar Datos</button>
+        <button type="submit" id="btn-edit" class="btn btn-dark">Guardar Datos</button>
       </div>
 
     </form>

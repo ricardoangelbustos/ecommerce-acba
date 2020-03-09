@@ -9,6 +9,9 @@ header, footer{
 body{
     font-family: 'Roboto', sans-serif;
 }
+body{
+    background-color: #FBFFEC;
+}
 
 div.container-fluid{
     max-width: 1140px;
@@ -18,7 +21,7 @@ div.container-fluid{
 /* HEADER */
 
 header{
-    background-color: lightblue;
+    background-color: #FFA113;
 }
 
 header section.logo-usuario{
@@ -57,7 +60,7 @@ header hr{
 /* NAVBAR */
 
 nav#nav{
-    background-color: lightblue;
+    background-color: #FFA113;
 }
 
 /* Centrado del título principal de la página */
@@ -78,7 +81,7 @@ nav#nav{
 /* FOOTER */
 footer{
     height: 150px;
-    background-color: red;
+    background-color: #643030;
     display: flex;
 }
 

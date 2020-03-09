@@ -26,6 +26,8 @@ main #register-form{
     margin: 0 auto;
     padding: 20px;
     background-color: rgba(225, 225, 225, 0.5);
+    border: 1px solid #FFA113;
+    border-radius: 20px;
 }
 /* Centra el título principal */
 .main-title{

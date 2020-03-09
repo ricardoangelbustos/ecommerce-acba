@@ -13,7 +13,7 @@
         <th>id</th>
         <th>Categoría</th>
         <th colspan="2">
-            <a href="addCategory" class="btn btn-dark">
+            <a href="addCategory" class="btn btn-light">
             Agregar nueva categoria
             </a>
         </th>

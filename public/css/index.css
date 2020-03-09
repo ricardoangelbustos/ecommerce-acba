@@ -1,5 +1,7 @@
 /* NOVEDADES */
-
+body{
+    background-color: #FBFFEC;
+}
 .row {
     margin-left: 0;
     margin-right: 0;

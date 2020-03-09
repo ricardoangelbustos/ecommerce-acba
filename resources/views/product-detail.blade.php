@@ -1,6 +1,6 @@
 @extends('layouts.template')
 
-@section('title', 'DHShop - contacto')
+@section('title', 'Detalle del producto')
 
 @section('css')
     {{ '/css/product-detail.css' }}

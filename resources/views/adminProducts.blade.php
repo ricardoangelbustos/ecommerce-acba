@@ -19,7 +19,7 @@
                 <th>Marca</th>
                 <th>Categoría</th>
                 <th colspan="2">
-                <a href="addProduct" class="btn btn-dark">
+                <a href="addProduct" class="btn btn-light">
                     Agregar nuevo producto
                 </a>
                 </th>

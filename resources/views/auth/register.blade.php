@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/register-css.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <!-- ESPACIO PARA CSS DEL PROYECTO -->
     <title>Registrate</title>
 </head>
@@ -16,7 +17,7 @@
 
         <main>
 
-
+            <br>
             <section id="register-form">
                 <div class="main-title">
                     <h1>Registrarse</h1>
@@ -148,7 +149,7 @@
 
                     <div class="row">
                         <div class="col-12 col-sm-12 col-lg-6 column">
-                            <button type="submit" class="btn btn-primary">Enviar</button>
+                            <button type="submit" class="btn btn-dark">Enviar</button>
                         </div>
                     </div>
 
@@ -168,6 +169,7 @@
                 <p>¿Ya tiene una cuenta? <a href="login">Ingrese</a></p>
 
             </section>
+            <br>
         </main>
 
 

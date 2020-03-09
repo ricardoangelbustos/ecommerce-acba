@@ -13,7 +13,7 @@
         <th>id</th>
         <th>Marca</th>
         <th colspan="2">
-            <a href="addMark" class="btn btn-dark">
+            <a href="addMark" class="btn btn-light">
             Agregar nueva marca
             </a>
         </th>

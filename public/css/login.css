@@ -12,6 +12,9 @@ header div{
 main{
 }
 
+body{
+    background-color: #FBFFEC;
+}
 
 
 
@@ -30,7 +33,7 @@ img.logo{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid blue;
+    border: 1px solid #FFA113;
     margin: 0 auto;
     max-width: 400px;
     background-color: rgba(225, 225, 225, 0.5);

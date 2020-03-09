@@ -16,6 +16,7 @@
         <header>
             <section class='logo-usuario'>
             <article class='logo'>
+                <br>
                 <a href='/'><img src='/img/acba-logo.png' alt=''></a>
             </article>
             <article class='usuario-acciones'>
@@ -66,8 +67,8 @@
 
                 </ul>
                 <form class='form-inline my-2 my-lg-0'>
-                <input class='form-control mr-sm-2' type='search' placeholder='Search' aria-label='Search'>
-                <button class='btn btn-outline-success my-2 my-sm-0' type='submit'>Buscar</button>
+                <input class='form-control mr-sm-2' type='search' placeholder='Busqueda' aria-label='Search'>
+                <button class='btn btn-light btn-outline-success my-2 my-sm-0' type='submit'>Buscar</button>
                 </form>
             </div>
             </nav>
@@ -96,6 +97,7 @@
                 <li><a href="faq">Ayuda</a></li>
             </ul>
             </section>
+            <br><br>
         </footer>
 
 

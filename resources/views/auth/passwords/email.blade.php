@@ -9,7 +9,7 @@
 
     <!-- ESPACIO PARA CSS DEL PROYECTO -->
     <link rel="stylesheet" href="/css/login.css">
-    <title>Ingresar</title>
+    <title>Resetea tu contraseña</title>
 </head>
 
 <body>
