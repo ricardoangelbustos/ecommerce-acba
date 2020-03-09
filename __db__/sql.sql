@@ -107,8 +107,7 @@ CREATE TABLE `migrations` (
 -- Dumping data for table `migrations`
 --
 
-INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
-(2, '2020_02_12_202328_column_quantity_added_to_receipts_products', 1);
+
 
 -- --------------------------------------------------------
 
