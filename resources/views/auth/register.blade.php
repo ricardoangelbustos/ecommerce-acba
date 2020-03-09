@@ -4,11 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/register-css.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
-    <!-- ESPACIO PARA CSS DEL PROYECTO -->
     <title>Registrate</title>
 </head>
 
@@ -31,8 +29,6 @@
 
                 <form method="post" action="" enctype="multipart/form-data">
                     @csrf
-
-                    <!-- NOMBRE -->
                     <div class="form-group">
                         <label for="first_name">Nombre</label>
                         <input id="first_name" type="text" class="form-control @error('first_name') is-invalid @enderror" name="first_name" value="{{ old('first_name') }}" autocomplete="first_name" autofocus>
@@ -45,7 +41,6 @@
                         @enderror
                     </div>
 
-                    <!-- APELLIDO -->
                     <div class="form-group">
                         <label for="last_name">Apellido</label>
                         <input id="last_name" type="text" class="form-control @error('last_name') is-invalid @enderror" name="last_name" value="{{ old('last_name') }}" autocomplete="last_name" autofocus>
@@ -57,7 +52,6 @@
                         @enderror
                     </div>
 
-                    <!-- Email -->
                     <div class="form-group">
                         <label for="email">Email</label>
                         <input id="email" type="text" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" autocomplete="email" autofocus>
@@ -69,7 +63,6 @@
                         @enderror
                     </div>
 
-                    <!-- Contraseña -->
                     <div class="form-group">
                         <label for="password">Contraseña</label>
                         <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" autocomplete="password" autofocus>
@@ -81,14 +74,11 @@
                         @enderror
                     </div>
 
-                    <!-- Confirmar contraseña -->
                     <div class="form-group">
                         <label for="password_confirmation">Confirmar contraseña</label>
                         <input id="password_confirmation" type="password" class="form-control @error('password_confirmation') is-invalid @enderror" name="password_confirmation" autocomplete="password_confirmation" autofocus>
                     </div>
 
-
-                    {{-- Foto de perfil --}}
                     <div class="form-group">
                         <label for="image">Foto de perfil</label> <br>
                         <input name="image" type="file" id="image">
@@ -98,8 +88,7 @@
                         </span>
                         @enderror
                     </div>
-                    
-                    <!-- DNI -->
+ 
                     <div class="form-group">
                         <label for="dni">DNI</label>
                         <input id="dni" type="text" class="form-control @error('dni') is-invalid @enderror" name="dni" value="{{ old('dni') }}" autocomplete="dni" autofocus>
@@ -110,8 +99,7 @@
                             </span>
                         @enderror
                     </div>
-                    
-                    <!-- Fecha de nacimiento -->
+ 
                     <div class="form-group">
                         <label for="birthdate">Fecha de nacimiento</label>
                         <input value="{{ old('birthdate') }}" name="birthdate" type="date" class="form-control @error('birthdate') is-invalid @enderror" id="birthdate">
@@ -121,8 +109,7 @@
                         </span>
                         @enderror
                     </div>
-                    
-                    <!-- TELEFONO -->
+
                     <div class="form-group">
                         <label for="phone">Teléfono</label>
                         <input id="phone" type="text" class="form-control @error('phone') is-invalid @enderror" name="phone" value="{{ old('phone') }}" autocomplete="phone" autofocus>
@@ -134,7 +121,6 @@
                         @enderror
                     </div>
                     
-                    <!-- Direccion -->
                     <div class="form-group">
                         <label for="address">Dirección</label>
                         <input id="address" type="text" class="form-control @error('address') is-invalid @enderror" name="address" value="{{ old('address') }}" autocomplete="address" autofocus>
@@ -175,11 +161,11 @@
 
 
         <aside>
-            <!-- ASIDE DEL PROYECTO -->
+            
         </aside>
 
         <footer>
-            <!-- FOOTER DEL PROYECTO -->
+            
         </footer>
     </div>
 

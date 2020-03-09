@@ -16,7 +16,6 @@
         </div>
     @endif
 
-
         <form action="" method="post">
             @csrf
             Categoría:

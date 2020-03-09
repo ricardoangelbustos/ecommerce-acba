@@ -16,7 +16,6 @@
         </div>
     @endif
 
-
     <form action="" method="post" enctype="multipart/form-data">
         @csrf
         Nombre:
@@ -24,31 +23,22 @@
         {{-- <div class='invalid-feedback' style='display: block'></div> --}}
         <br>
 
-
         Precio:
         <input value="{{old('price', $Product->price)}}" type="text" name="price" class="form-control" require>
         <br>
-
-
 
         Stock:
         <input value="{{old('stock', $Product->stock)}}" type="number" name="stock" class="form-control" require>
         <br>
 
-
-
         Descripción:
         <input value="{{old('description', $Product->description)}}" type="textarea" name="description" class="form-control" require>
         <br>
-
-
 
         Imagen:
         <input class="from-control" type="file" name="image" require>
         <br> <br>
 
-
-        
         Categoría:
         <select name="category_id" class="form-control">
             <option value="">Seleccione una categoría</option>
@@ -100,11 +90,6 @@
             @endforeach
         </select>
         <br>
-
-
-
-
-
 
         <input class="btn btn-success" type="submit" value="Agregar">
         <input class="btn btn-danger" type="button" value="Volver" onclick="location.href='/adminProducts';">

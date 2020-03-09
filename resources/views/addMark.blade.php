@@ -16,7 +16,6 @@
         </div>
     @endif
 
-
         <form action="addMark" method="post">
             @csrf
             Marca:

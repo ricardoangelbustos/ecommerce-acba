@@ -54,11 +54,11 @@ Route::get('/deleteCustomer/{id}', 'CustomersController@delete')->middleware('ad
 Route::post('/deleteCustomer/{id}', 'CustomersController@destroy')->middleware('admin');
 
 ########### Carts #############
-Route::post('/products/{id}', 'CartsController@addProduct');   // agregar producto al carrito
-Route::get('/cart', 'CartsController@show');   // mostrar carrito del cliente logeado
-Route::post('/modifyProductQuantity', 'CartsController@modifyProductQuantity');   // modificar la cantidad del producto en el carrito
-Route::post('/removeProduct', 'CartsController@removeProduct');   // quitar producto del carrito
-Route::post('/checkout', 'CartsController@checkout');   // quitar producto del carrito
+Route::post('/products/{id}', 'CartsController@addProduct');
+Route::get('/cart', 'CartsController@show');
+Route::post('/modifyProductQuantity', 'CartsController@modifyProductQuantity');
+Route::post('/removeProduct', 'CartsController@removeProduct');
+Route::post('/checkout', 'CartsController@checkout');
 
 ########### Admin #############
 Route::get('/adminLogIn', 'AdminsController@logInForm')->middleware('adminLogged');

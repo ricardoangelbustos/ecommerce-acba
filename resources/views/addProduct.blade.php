@@ -24,30 +24,21 @@
         {{-- <div class='invalid-feedback' style='display: block'></div> --}}
         <br>
 
-
         Precio:
         <input value="{{old('price')}}" type="text" name="price" class="form-control" require>
         <br>
-
-
 
         Stock:
         <input value="{{old('stock')}}" type="number" name="stock" class="form-control" require>
         <br>
 
-
-
         Descripción:
         <input value="{{old('description')}}" type="textarea" name="description" class="form-control" require>
         <br>
 
-
-
         Imagen:
         <input class="from-control" type="file" name="image" require>
         <br> <br>
-
-
 
         Categoría:
         <select name="category_id" class="form-control">
@@ -74,11 +65,6 @@
             @endforeach
         </select>
         <br>
-
-
-
-
-
 
         <input class="btn btn-success" type="submit" value="Agregar">
         <input class="btn btn-danger" type="button" value="Volver" onclick="location.href='/adminProducts';">
