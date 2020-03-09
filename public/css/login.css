@@ -6,28 +6,16 @@
 }
 
 /* HEADER */
-header div{
-}
-
-main{
-}
 
 body{
     background-color: #FBFFEC;
 }
-
-
-
-
-/* Logo */
 img.logo{
     width: 200px;
     height: 160px;
     display: block;
     margin: 0 auto;
 }
-
-/* Contenedor principal de todos los elementos */
 .main-content{
     display: flex;
     flex-direction: column;
@@ -40,18 +28,14 @@ img.logo{
     border-radius: 10px;
     height: 90vh;
 }
-
 h1{
     text-align: center;
 }
-
 button{
     display: block;
     width: 100%;
     margin: 5px 0;
 }
-
-/* Contenedor de los iconos */
 .social-network{
     width: 100%;
     display: flex;
@@ -59,14 +43,10 @@ button{
     flex-wrap: nowrap;
     justify-content: space-around;
 }
-
-/* Íconos */
 .icon{
     width: 40px;
     height: 40px;
-    
 }
-
 form#registro{
     width: 200px;
 }

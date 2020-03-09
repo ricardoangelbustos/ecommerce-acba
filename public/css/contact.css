@@ -5,20 +5,16 @@ main{
     padding: 0 20px;
     min-height: 61.4vh;
 }
-
 h1{
     margin: 0;
     margin-bottom: 5px;
 }
-
 p{
     margin-bottom: 0;
 }
-
 textarea{
     margin-bottom: 10px;
 }
-
 form.contact{
     margin-top: 15px;
     margin-bottom: 25px;

@@ -21,7 +21,6 @@
         @csrf
         Nombre:
         <input value="{{old('name')}}" class="form-control" type="text" name="name" class="form-control" require>
-        {{-- <div class='invalid-feedback' style='display: block'></div> --}}
         <br>
 
         Precio:

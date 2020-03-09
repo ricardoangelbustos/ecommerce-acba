@@ -8,83 +8,66 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #FBFFEC ;
 }
-
 div.container-fluid{
     max-width: 1140px;
     padding: 0px;
 }
-
 header{
     background-color: #FFA113;
 }
-
 header section.logo-usuario{
     display: flex;
     width: 100%;
     justify-content: flex-start;
 }
-
 .logo h1{
     font-size: 4.5em;
 }
-
-
 header section.logo-usuario article.usuario-acciones{
     margin-left: auto;
     margin-top: auto;
     margin-right: 20px;
 }
-
 header section.logo-usuario article.usuario-acciones a{
     color: black;
 }
-
 header section.logo-usuario article.usuario-acciones a#registrarme{
     border-right: 1px solid black;
     padding-right: 20px;
     margin-right: 18px;
 }
-
 header hr{
     margin: 4px 0;
     color: black;
     border-width: 1px;
 }
-
 nav#nav{
     background-color: #FFA113;
 }
-
 footer{
     height: 150px;
     background-color: #643030;
     display: flex;
 }
-
 footer section.logo{
     margin-top: auto;
     color: white;
 }
-
 footer section.footer-nav{
     margin-left: auto;
     margin-right: 20px;
 }
-
 footer section.footer-nav ul{
     list-style-type: none;
     padding: 10px 0 0 0;
     margin-bottom: 0;
 }
-
 footer section.footer-nav ul li{
     margin-bottom: 10px;
 }
-
 footer section.footer-nav ul li a{
     color: white;
 }
-
 main{
     min-height: 62.5vh;
 }

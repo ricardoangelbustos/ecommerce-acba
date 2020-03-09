@@ -4,14 +4,12 @@ body{
 main{
     min-height: 61.4vh;
 }
-
 h2 {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 20px;
     text-decoration: underline;
 }
-
 section.products-list {
     max-width: 1140px;
     margin-left: 0;
@@ -20,11 +18,9 @@ section.products-list {
     display: flex;
     justify-content: space-around;
 }
-
 div.product-container{
     padding: 10px;
 }
-
 section.products-list a.product {
     border: 1px solid rgba(0, 0, 0, .125);
     border-radius: 5px;
@@ -34,12 +30,6 @@ section.products-list a.product {
     display: flex;
     flex-direction: column;
 }
-
 section.products-list a:nth-child(even){
     background-color: aliceblue;
 }
-
-
-/* section.products-list article.product img{
-    width: 100%;
-} */
