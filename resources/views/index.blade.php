@@ -23,22 +23,16 @@
           <div class="carousel-item active">
             <img src="img/carousel-1.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block first-item">
-              <h5>First slide label</h5>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/carousel-2.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block second-item">
-              <h5>Second slide label</h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/carousel-3.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block third-item">
-              <h5>Third slide label</h5>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
             </div>
           </div>
         </div>

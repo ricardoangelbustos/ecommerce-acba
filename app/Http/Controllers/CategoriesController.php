@@ -44,8 +44,8 @@ class CategoriesController extends Controller
             [
                 'required' => 'Completar campo',
                 'unique' => 'La categoria ya se encuentra en la base de datos',
-                'min' => 'debe ingresar más de 2 letras',
-                'max' => 'debe ingresar menos de 20 letras'
+                'min' => 'Debe ingresar más de 2 letras',
+                'max' => 'Debe ingresar menos de 20 letras'
             ]
         );
 
@@ -99,8 +99,8 @@ class CategoriesController extends Controller
             [
                 'required' => 'Completar campo',
                 'unique' => 'La categoria ya se encuentra en la base de datos',
-                'min' => 'debe ingresar más de 2 letras',
-                'max' => 'debe ingresar menos de 20 letras'
+                'min' => 'Debe ingresar más de 2 letras',
+                'max' => 'Debe ingresar menos de 20 letras'
             ]
         );
 

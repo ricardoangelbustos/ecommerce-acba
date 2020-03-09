@@ -24,7 +24,7 @@
     <br>
 
     Contraseña:
-    <input type="text" name="password" class="form-control" require>
+    <input type="password" name="password" class="form-control" require>
     <br>
 
     <input type="submit" value="Entrar">
