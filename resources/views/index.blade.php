@@ -64,17 +64,13 @@
       </div>
       <div class="card-text col-ms-12 col-md-6">
         <h3>Variedad de productos</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos perspiciatis commodi corrupti aliquid
-          pariatur, impedit error dicta? Harum doloremque ea delectus natus laudantium a voluptas officiis quod,
-          deleniti mollitia eum?</p>
+        <p>Nos caracterizamos por ofrecer una basta cantidad de productos. Estos no estan enfocados hacia ningun audiencia, por lo tanto, tratamos de satisfacer a los clientes en numerosos aspectos, ya sea para protegerse del clima, como para desarrollar actividades.</p>
       </div>
     </article>
     <article class="card" id="card2 row">
       <div class="card-text col-ms-12 col-md-6">
         <h3>La mejor calidad</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos perspiciatis commodi corrupti aliquid
-          pariatur, impedit error dicta? Harum doloremque ea delectus natus laudantium a voluptas officiis quod,
-          deleniti mollitia eum?</p>
+        <p>Todos nuestros productos se desarrollan con materiales de última generación capaces no solo de resistir a las distintas condiciones climáticas, sino que le ofrece a los clientes una experiencia completamente confortable y a medida.</p>
       </div>
       <div class="card-image col-ms-12 col-md-6">
         <img src="img/card2.png" alt="">
@@ -86,9 +82,7 @@
       </div>
       <div class="card-text col-ms-12 col-md-6">
         <h3>Envíos a todo el país</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos perspiciatis commodi corrupti aliquid
-          pariatur, impedit error dicta? Harum doloremque ea delectus natus laudantium a voluptas officiis quod,
-          deleniti mollitia eum?</p>
+        <p>Desde el momento en que efectúas la compra, te ofrecemos la posibilidad de enviar el producto a cualquier zona del país, sin costo adicional. Luego de seleccionar el método de envío, recibirás un email con una notificación cuando tu pedido esté listo para retirar en la tienda que seleccionaste, o en el correo más cercano.</p>
       </div>
     </article>
   </section>
